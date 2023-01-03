@@ -1,0 +1,6 @@
+Page Navigation Module
+
+Screen Actions Box:
+Data Element: Home Button, Previous Page (Left Arrow) Button, Next Page (Right Arrow) Button.Trigger: User clicks the Home Button., User clicks the Previous Page (Left Arrow) Button., User clicks the Next Page (Right Arrow) Button.Resulting Actions: The GUI screen displays the home page. The success message 1 is displayed on top of the screen., The GUI screen displays the previous page if the user is not on the home page. The success message 2 is displayed on top of the screen., The GUI screen displays the next page if the user is on the home page or any page after. The success message 3 is displayed on top of the screen..
+Messages Box:
+Row Number: 1, 2, 3.Message Type: Success, Success, Success.Messages: Welcome to the Home Page!, Welcome to the Previous Page!, Welcome to the Next Page!.

@@ -22,6 +22,6 @@ Jupyter Notebooks
 
    a. Linear Regression Model
    
-   b. Gradient Boosting Regressor (with hyper paramters)
+   b. Gradient Boosting Regressor (with hyper parameters)
 
 [Source](https://moloonaila.medium.com/forecasting-the-power-output-of-pv-systems-using-an-ml-algorithm-5fbd2fabc66a)

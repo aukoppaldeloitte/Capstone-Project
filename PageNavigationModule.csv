@@ -1,4 +1,0 @@
-Data Element,Trigger,Resulting Actions,Row Number,Message Type,Message
-Home Button,User clicks the Home (House) Button.,The GUI screen displays the home page. The success message 1 is displayed on top of the screen.,1,Success,Welcome to the Home Page!
-Previous Page (Left Arrow) Button,User clicks the Previous Page (Left Arrow) Button.,The GUI screen displays the previous page if the user is not on the home page. The success message 2 is displayed on top of the screen.,2,Success,Welcome to the Previous Page!
-Next Page (Right Arrow) Button,User clicks the Next Page (Right Arrow) Button.,The GUI screen displays the next page if the user is on the home page or any page after. The success message 3 is displayed on top of the screen.,3,Success,Welcome to the Next Page!

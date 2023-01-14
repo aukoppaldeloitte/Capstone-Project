@@ -1,4 +1,4 @@
-Predicting the Power Output of PV Systems
+Predicting the Power Output of Photovoltaic Systems
 
 Table Of Contents
 
@@ -23,5 +23,10 @@ Jupyter Notebooks
    a. Linear Regression Model
    
    b. Gradient Boosting Regressor (with hyper parameters)
+
+Powerpoint
+
+1. The Future of Renewable Energies - Solar Energy.ppt
+
 
 [Source](https://moloonaila.medium.com/forecasting-the-power-output-of-pv-systems-using-an-ml-algorithm-5fbd2fabc66a)

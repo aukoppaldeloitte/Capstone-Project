@@ -28,5 +28,8 @@ Powerpoint
 
 1. The Future of Renewable Energies - Solar Energy.ppt
 
+Results:
+
+Power Output of PV Systems are largely influenced by the angle's (angle of incidence, azimuth & zenith) in correlation to the sun. Not weather! Final model's MAE/RMSE scores concur with this thesis as they are significantly low by scale.
 
 [Source](https://moloonaila.medium.com/forecasting-the-power-output-of-pv-systems-using-an-ml-algorithm-5fbd2fabc66a)

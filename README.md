@@ -26,7 +26,7 @@ Jupyter Notebooks
 
 Powerpoint
 
-1. The Future of Renewable Energies - Solar Energy.ppt
+1. The Future of Renewable Energies - Solar Energy.pdf
 
 Results:
 
